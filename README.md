@@ -1,8 +1,27 @@
-Hello, I'm Shreya Deshpande, a Master's student specializing in Information Systems at Northeastern University with an expected graduation date of December 2025. My academic journey is complemented by a solid foundation in Computer Science from Smt. Kashibai College of Engineering, where I achieved a GPA of 3.8/4.0.
+Shreya Deshpande :woman_technologist: - Master's Candidate at Northeastern University | Data Enthusiast | Full-Stack Aspirant
+🎓 Academic Excellence
+Master's in Information Systems, Northeastern University (Expected Dec 2025)
+B.Tech in Computer Science, Smt. Kashibai Navale College of Engineering (GPA: 3.8/4.0)
 
-At present, I'm sharpening my skills in data-driven technologies and actively seeking innovative project ideas that can make a significant impact in the tech industry. My technical proficiency spans across languages like Python, R, Java, and JavaScript, and extends to adeptness in databases such as MySQL, Oracle, and MongoDB.
+🔍 Passionate Innovator
+Dedicated to harnessing data-driven technologies to craft impactful solutions in the tech sphere. A lifelong learner seeking to merge theoretical knowledge with real-world applications.
 
-I am currently broadening my skill set to include front-end and back-end development, which supplements my substantial knowledge in data science and machine learning. My tenure as an Application Senior Analyst at Accenture saw me leading initiatives to enhance data processes with SQL, Python, and various data visualization tools, significantly improving data quality and operational workflows.
+💻 Technical Proficiency
+Languages: Python 🐍, R, Java ☕, JavaScript
+Databases: MySQL, Oracle, MongoDB
+Tools: Data Visualization suites, Machine Learning frameworks, Full-stack development essentials
 
-For collaborations or to discuss potential projects, I am available at 
+🚀 Professional Milestones
+Former Application Senior Analyst at Accenture - Led data enhancement initiatives, optimizing data quality and operational efficiency with a blend of SQL, Python, and visualization tools.
+
+🌐 Full-Stack Journey
+Expanding my horizons to include full-stack development, aiming to complement my extensive data science and machine learning expertise with robust web development capabilities.
+
+🤝 Let's Collaborate
+Open for partnerships on innovative projects. Reach out to brainstorm, discuss potential projects, or just connect!
+
+📧 Contact Me
 Deshpande.shr@northeastern.edu
+
+📄 Explore My Work
+GitHub Repositories - Dive into my code and collaborations.
