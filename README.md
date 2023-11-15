@@ -9,7 +9,7 @@ Dedicated to harnessing data-driven technologies to craft impactful solutions in
 💻 Technical Proficiency
 Languages: Python 🐍, R, Java ☕, JavaScript
 Databases: MySQL, Oracle, MongoDB
-Tools: Data Visualization suites, Machine Learning frameworks, Full-stack development essentials
+Tools: Data Visualization suites, Machine Learning frameworks
 
 🚀 Professional Milestones
 Former Application Senior Analyst at Accenture - Led data enhancement initiatives, optimizing data quality and operational efficiency with a blend of SQL, Python, and visualization tools.
